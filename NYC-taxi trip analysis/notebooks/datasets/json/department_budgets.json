@@ -3,6 +3,22 @@
         "department_id": 1,
         "budget": 16000,
         "budget_period": "year",
+        "budget_authorizer": [
+            {
+                "cto": {
+                    "office": "new york",
+                    "name": "joe",
+                    "last_name":"doe"
+                }
+            },
+            {
+                "cto2": {
+                    "office": "new york",
+                    "name": "joe",
+                    "last_name":"doe"
+                }
+            }
+        ],
         "offices": [
             {
                 "cost_center": {
